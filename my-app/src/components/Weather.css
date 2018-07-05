@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+
+.Weather{
+  display:flex;
+  flex-direction: column;
+}
+
+.Temp{
+  color:grey;
+  font-size:80px;
+  margin: 0;
+  padding-left: 5px;
+  
+}
+
+.Location {
+  font-size:20px;
+  display:flex;
+  color:grey;
+  margin-left:10px;
+  font-family: 'Josefin Sans', cursive;
+}
+
+.Description{
+  width: 300px;
+  margin:0 auto;
+  text-transform: uppercase;
+  color:grey;
+
+}
+
+
+
+

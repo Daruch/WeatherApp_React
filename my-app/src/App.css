@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  min-height:100vh;
+  text-align: center;
+  background-color:#ecf0f1;
+}
+
+.Wrapper{
+  margin: 0 auto;
+  padding: 20px;
+  width:70%;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 5px 55px 50px -20px #b6b6b6; 
+}
+
+
+.Title{
+   color:#ccc;
+   padding-bottom: .5em;
+   font-weight:lighter;
+}
+
+.Info{
+  display:flex;
+  justify-content: space-around;
+}
+ 
